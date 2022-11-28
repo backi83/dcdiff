@@ -1,10 +1,7 @@
 #
-# dcdiff capture module v0.5
+# dcdiff capture module v0.6
 #
 # Author: MB
-#
-#
-#
 #
 #############################
 # CHANGELOG

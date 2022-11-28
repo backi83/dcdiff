@@ -1,10 +1,7 @@
 #
-# dcdiff compare module v0.5
+# dcdiff compare module v0.6
 #
 # Author: MB
-#
-#
-#
 #
 # TODO
 # add ETL file decode (Get-WinEvent -Path "C:\nachher\Windows\System32\LogFiles\WMI\ntfslog.etl" -oldest)
